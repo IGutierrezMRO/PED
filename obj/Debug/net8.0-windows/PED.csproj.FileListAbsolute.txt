@@ -1,0 +1,14 @@
+C:\Users\inmer\Desktop\PED\bin\Debug\net8.0-windows\PED.exe
+C:\Users\inmer\Desktop\PED\bin\Debug\net8.0-windows\PED.deps.json
+C:\Users\inmer\Desktop\PED\bin\Debug\net8.0-windows\PED.runtimeconfig.json
+C:\Users\inmer\Desktop\PED\bin\Debug\net8.0-windows\PED.dll
+C:\Users\inmer\Desktop\PED\bin\Debug\net8.0-windows\PED.pdb
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\PED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\PED.AssemblyInfoInputs.cache
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\PED.AssemblyInfo.cs
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\PED.csproj.CoreCompileInputs.cache
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\PED.dll
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\refint\PED.dll
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\PED.pdb
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\PED.genruntimeconfig.cache
+C:\Users\inmer\Desktop\PED\obj\Debug\net8.0-windows\ref\PED.dll
